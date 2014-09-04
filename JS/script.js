@@ -1,2 +1,2 @@
 document.getElementById("foot01").innerHTML =
-  "<p>&copy;  " + new Date().getFullYear() + " MyWebsite. All rights reserved.<br>Design and Code by: Tim Levinsson</p>";
+  "<p>&copy;  " + new Date().getFullYear() + " MyWebsite. All rights reserved.<br>Front end design by <i style='color:white;'>Tim Levinsson</i><br />Back end design by <i style='color:white;'>Nirelz</i></p>";

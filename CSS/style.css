@@ -11,7 +11,9 @@ body {
 
 /* Nav */
 #navs {
-  box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.4);
+  /*box-shadow: 0px 0px 3px 3px rgba(0,0,0,0.4);*/
+  /* Uncomment above and comment in below to reset to original state */
+  box-shadow: 1px 1px 1px white;
   position: fixed; 
   top: 0; 
   left: 0; 

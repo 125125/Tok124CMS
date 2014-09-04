@@ -25,7 +25,7 @@ $(document).ready(function(){
       <li><a href="#">FAQ</a></li>
     </ul>
    </div>
-   <div class="navlist2">
+   <!--<div class="navlist2">
     <ul>
       <li><a href="#">Nav2 Link1</a></li>
       <li><a href="#">Nav2 Link2</a></li>
@@ -33,7 +33,7 @@ $(document).ready(function(){
       <li><a href="#">Nav2 Link4</a></li>
       <li><a href="#">Nav2 Link5</a></li>
     </ul>
-  </div>
+  </div>-->
 </div>
 <div id="wrapper">
 <div id="position">
