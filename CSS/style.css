@@ -2,7 +2,7 @@
 body {
   margin:0;
   padding:0;
-  background-image:url(http://oi61.tinypic.com/ic5w61.jpg);
+  background-image:url('../images/bg.jpg');
   background-repeat:no-repeat;
   background-size: 100% auto;
   background-color:rgb(17, 17, 22);
@@ -129,7 +129,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3332', end
 }
 
 #MyLogo {
-  background-image:url(http://i57.tinypic.com/2uic410.jpg);
+  background-image:url('../images/slider1.jpg');
   width:980px;
   height:300px;
   margin-bottom:10px;
@@ -166,7 +166,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3332', end
   height:30px;
   width:30px;
   left:930px;
-  background-image:url(http://i59.tinypic.com/fmhhu.png);
+  background-image:url('../images/close.png');
   cursor:pointer;
 }
 
