@@ -26,13 +26,13 @@ body {
 	text-align:center;
 }
 
-.navlist ul, .navlist2 ul {
+.navlist ul {
 	margin: 0;
 	padding: 0;
 	display:block;
 }
 
-.navlist ul li, .navlist2 ul li {
+.navlist ul li {
 	display:inline-block;
 	margin-right:-5px;
 }
@@ -49,26 +49,6 @@ body {
 
 .navlist ul li a:hover {
   background-color:#c63434;
-}
-
-.navlist2 {
-  background-color:rgb(200, 200, 200);
-	width: 100%;
-	text-align:center;
-}
-
-.navlist2 ul li a {
-	text-decoration: none;
-  background-color:#c63434;
-	color: white; 
-	padding: 3px 30px;
-	display:inline-block;
-	font-family:myriad pro;
-	text-transform:uppercase;
-}
-
-.navlist2 ul li a:hover {
-  background-color:#b22f2f;
 }
 /* Nav */
 #wrapper {
@@ -149,7 +129,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3332', end
 }
 
 #MyLogo {
-  background-image:url(http://ksdesigning.com/themes/calm/wp-content/uploads/2010/02/black-and-blue-cubes-wallpaper.jpg);
+  background-image:url(http://i57.tinypic.com/2uic410.jpg);
   width:980px;
   height:300px;
   margin-bottom:10px;
@@ -186,7 +166,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2e3332', end
   height:30px;
   width:30px;
   left:930px;
-  background-image:url(https://www.onx.ms/images/close.png);
+  background-image:url(http://i59.tinypic.com/fmhhu.png);
   cursor:pointer;
 }
 

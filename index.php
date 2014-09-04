@@ -25,6 +25,7 @@ $(document).ready(function(){
       <li><a href="#">FAQ</a></li>
     </ul>
    </div>
+<<<<<<< HEAD
    <!--<div class="navlist2">
     <ul>
       <li><a href="#">Nav2 Link1</a></li>
@@ -34,6 +35,8 @@ $(document).ready(function(){
       <li><a href="#">Nav2 Link5</a></li>
     </ul>
   </div>-->
+=======
+>>>>>>> origin/master
 </div>
 <div id="wrapper">
 <div id="position">
