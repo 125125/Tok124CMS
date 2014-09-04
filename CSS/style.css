@@ -24,13 +24,13 @@ body {
 	text-align:center;
 }
 
-.navlist ul, .navlist2 ul {
+.navlist ul {
 	margin: 0;
 	padding: 0;
 	display:block;
 }
 
-.navlist ul li, .navlist2 ul li {
+.navlist ul li {
 	display:inline-block;
 	margin-right:-5px;
 }
@@ -47,26 +47,6 @@ body {
 
 .navlist ul li a:hover {
   background-color:#c63434;
-}
-
-.navlist2 {
-  background-color:rgb(200, 200, 200);
-	width: 100%;
-	text-align:center;
-}
-
-.navlist2 ul li a {
-	text-decoration: none;
-  background-color:#c63434;
-	color: white; 
-	padding: 3px 30px;
-	display:inline-block;
-	font-family:myriad pro;
-	text-transform:uppercase;
-}
-
-.navlist2 ul li a:hover {
-  background-color:#b22f2f;
 }
 /* Nav */
 #wrapper {
