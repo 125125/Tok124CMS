@@ -27,6 +27,15 @@
         <div class="tool">
           <a href="#">Apply for GM</a>
         </div>
+        <div class="tool">
+          <a href="#">Donate</a>
+        </div>
+        <div class="tool">
+          <a href="#">Vote</a>
+        </div>
+        <div class="tool">
+          <a href="#">Store</a>
+        </div>
       </div>
     </div>
     <div class="SideTools">
