@@ -18,5 +18,8 @@ switch($page)
     case "info":
         @include('pages/info.php');
         break;
+    case "register_success":
+        @include('pages/register_success.php');
+        break;
 }
 ?>

@@ -1,4 +1,5 @@
 <div id="wrapper">
+  <center><a href="?p=index"><div id="logo"></div></a></center>
 <div id="position">
 <aside>
     <div class="SideTools">
@@ -7,35 +8,23 @@
       </div>
       <div class="SideBody">
         <form action="#" method="post">
-          <input class="textbox" type="text" name="uname" placeholder="USERNAME" required autofocus /><br>
-          <input class="textbox" type="password" name="pass" placeholder="Password" required /><br>
+          <input class="uname" type="text" name="uname" value="USERNAME" required onblur="if (this.value == '') {this.value = 'USERNAME';}"
+ onfocus="if (this.value == 'USERNAME') {this.value = '';}" /><br>
+          <input class="pass" type="password" name="pass" placeholder="Password" required /><br>
           <input class="loginbutton" type="submit" value="Login">
         </form>
       </div>
     </div>
     <div class="SideTools">
       <div class="SideTitle">
-        Tools
+        Menu
       </div>
       <div class="SideBody">
         <div class="tool">
           <a href="#">Armory</a>
-        </div>
-        <div class="tool">
           <a href="#">Recruit</a>
-        </div>
-        <div class="tool">
           <a href="#">Apply for GM</a>
         </div>
-      </div>
-    </div>
-    <div class="SideTools">
-      <div class="SideTitle">
-        Chat
-      </div>
-      <div class="SideBody">
-        <center><textarea cols="30" rows="4">
-          </textarea></center>
       </div>
     </div>
 </aside>
