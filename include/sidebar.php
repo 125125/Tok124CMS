@@ -24,6 +24,13 @@
           <a href="#">Armory</a>
           <a href="#">Recruit</a>
           <a href="#">Apply for GM</a>
+          <a href="#">Connection Guide</a>
+          <a href="#">Changelog</a>
+          <a href="#">Bugtracker</a>
+          <a href="#">Vote</a>
+          <a href="#">Donate</a>
+          <a href="#">Downloads</a>
+          <a href="#">Staff List</a>
         </div>
       </div>
     </div>
